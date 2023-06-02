@@ -3,3 +3,9 @@
 ################################################################################
 
 /Microservice.service1/bin/Debug/net5.0/Microservice.service1.dll
+/Microservice.service1/bin/Debug/net5.0
+/Microservice.service1/obj/Debug/net5.0
+/Microservice.service1/obj
+/Microservice.Service2/bin/Debug/net5.0
+/Microservice.Service2/obj/Debug/net5.0
+/Microservice.Service2/obj
