@@ -9,3 +9,9 @@
 /Microservice.Service2/bin/Debug/net5.0
 /Microservice.Service2/obj/Debug/net5.0
 /Microservice.Service2/obj
+/Microservice.Service.Nuget/bin/Debug/net5.0
+/Microservice.Service.Nuget/bin/Release
+/Microservice.Service.Nuget/obj
+/.vs/Microservice_Communication
+/Microservice.service1/bin/Release/net5.0
+/Microservice.Service2/bin/Release/net5.0
